@@ -8,7 +8,7 @@ body {
 header {
   text-align: center;
   padding: 40px 20px;
-  background: linear-gradient(90deg, #8f46d7, #ffffff);
+  background: linear-gradient(90deg, #8f46d7, #000000);
   color: #fff;
 }
 
