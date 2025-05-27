@@ -74,3 +74,17 @@ footer {
   padding: 20px;
   color: #777;
 }
+.gallery a {
+  display: block;
+  transition: transform 0.3s, box-shadow 0.3s;
+}
+
+.gallery img {
+  width: 100%;
+  border-radius: 10px;
+}
+
+.gallery a:hover {
+  transform: scale(1.05);
+  box-shadow: 0 0 15px #00f2fe;
+}
